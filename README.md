@@ -1,6 +1,6 @@
 ## Mein Name ist Konstantin Kovalenko🙋
 
-Ich bin Doktor der Rechtswissenschaften und bin Wirtschaftsingenieur. 
+Ich bin Doktor der Rechtswissenschaften, professioneller Ökonom und Data Scientist. 
 
 Seit mehr als 10 Jahren entwickle, analysiere und überwache ich die Ausführung der Budgets großer Unternehmen. 
 Tabellen sind meine Leidenschaft.
